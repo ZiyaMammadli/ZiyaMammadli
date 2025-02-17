@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ziya</h1>
 <h3 align="center">A Backend developer from Azerbaijan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziyamammadli&label=Profile%20views&color=0e75b6&style=flat" alt="ziyamammadli" /> </p>
-
-- 🌱 I’m currently learning **MicroServices**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ZiyaMammadli?tab=repositories](https://github.com/ZiyaMammadli?tab=repositories)
 
 - 📫 How to reach me **ziyam040@gmail.com**
 
@@ -23,3 +18,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziyamammadli&show_icons=true&locale=en" alt="ziyamammadli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziyamammadli&" alt="ziyamammadli" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziyamammadli&label=Profile%20views&color=0e75b6&style=flat" alt="ziyamammadli" /> </p>
