@@ -1,4 +1,3 @@
-![MasterHead](https://d2m6ke2px6quvq.cloudfront.net/uploads/2020/07/15/aa9a0b99-ed76-48ea-8c14-4adcd42c91b1.jpg)
 
 <h1 align="center">Hi 👋, I'm Ziya</h1>
 <h3 align="center">A Backend developer from Azerbaijan</h3>
