@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dfrontend%2Bdeveloper&psig=AOvVaw1DVmCEYZqwMy_X5sts2JPn&ust=1739884945913000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCcidbmyosDFQAAAAAdAAAAABAQ)
+![MasterHead](https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg)
 
 <h1 align="center">Hi 👋, I'm Ziya</h1>
 <h3 align="center">A Backend developer from Azerbaijan</h3>
