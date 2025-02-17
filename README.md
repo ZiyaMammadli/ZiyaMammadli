@@ -1,4 +1,4 @@
-![MasterHead](https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg)
+![MasterHead](https://cdn.vectorstock.com/i/500p/39/11/programming-and-software-development-web-page-vector-30433911.jpg)
 
 <h1 align="center">Hi 👋, I'm Ziya</h1>
 <h3 align="center">A Backend developer from Azerbaijan</h3>
